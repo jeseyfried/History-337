@@ -26,7 +26,7 @@ tabs:
 
 # The Early Internet
 
-From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
+From ancient cultivation to modern cuisine, the chile's journey spans thousands of years. Thiws is achange
 
 ## Ancient History (7500 BCE – 1400 CE)
 
