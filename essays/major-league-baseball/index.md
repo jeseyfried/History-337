@@ -1,9 +1,9 @@
 ---
 title: "Major League Baseball"
 layout: scrollstory-tabs
-header-image: ../images/1937-sluggers.jpg
+header-image: images/1937-sluggers.jpg
 header-title: "Major League Baseball"
-thumbnail: ../images/1937-sluggers.jpg
+thumbnail: images/1937-sluggers.jpg
 summary: A history of Major League Baseball since 1945.
 tabs:
   - id: overview
